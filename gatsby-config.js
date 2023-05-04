@@ -2,7 +2,9 @@ module.exports = {
   plugins: [
     {
       resolve: "gatsby-theme-conferencer",
-      options: {}
+      options: {
+        siteUrl: "https://gatsby-conferencer-demo.netlify.app"
+      }
     }
   ],
 }

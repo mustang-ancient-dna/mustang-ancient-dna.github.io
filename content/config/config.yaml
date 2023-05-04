@@ -1,6 +1,6 @@
 siteInfo:
   language: en
-  url: https://devopsconf.es
+  url: https://gatsby-conferencer-demo.netlify.app
   footerNotes: Created by [Asier](https://twitter.com/asiermarques) with [Gatsby Theme Conferencer](https://github.com/asiermarques/gatsby-theme-conferencer)
 
 conferenceInfo:
