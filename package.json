@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "gatsby": "^5.9.0",
-    "gatsby-theme-conferencer": "^1.0.24",
+    "gatsby-theme-agora": "^1.0.26",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
