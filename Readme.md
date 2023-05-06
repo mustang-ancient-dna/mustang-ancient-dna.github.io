@@ -1,6 +1,7 @@
 # Gatsby template using Gatsby conferencer theme
 
-Theme repository: https://github.com/asiermarques/gatsby-theme-conferencer  
+Live demo: https://gatsby-conferencer-demo.netlify.app  
+Theme repository: https://github.com/asiermarques/gatsby-theme-conferencer
 
 ## Install dependencies
 
