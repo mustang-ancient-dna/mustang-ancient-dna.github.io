@@ -1,7 +1,7 @@
 siteInfo:
   language: en
   url: https://gatsby-conferencer-demo.netlify.app
-  footerNotes: Created by [Asier](https://twitter.com/asiermarques) with [Gatsby Theme Conferencer](https://github.com/asiermarques/gatsby-theme-conferencer)
+  footerNotes: Created by [Asier](https://twitter.com/asiermarques) with [Gatsby Theme Ágora](https://github.com/asiermarques/gatsby-theme-agora)
 
 conferenceInfo:
   name: An awesome conference

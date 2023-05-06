@@ -1,7 +1,7 @@
-# Gatsby template using Gatsby conferencer theme
+# Gatsby template using Gatsby Ágora theme
 
-Live demo: https://gatsby-conferencer-demo.netlify.app  
-Theme repository: https://github.com/asiermarques/gatsby-theme-conferencer
+Live demo: https://gatsby-agora-demo.netlify.app  
+Theme repository: https://github.com/asiermarques/gatsby-theme-agora
 
 ## Install dependencies
 
