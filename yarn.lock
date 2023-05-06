@@ -5354,10 +5354,10 @@ gatsby-telemetry@^4.9.0:
     lodash "^4.17.21"
     node-fetch "^2.6.9"
 
-gatsby-theme-conferencer@^1.0.22:
-  version "1.0.22"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-conferencer/-/gatsby-theme-conferencer-1.0.22.tgz#add42b82f4c9566f181f519aca11292635679ecf"
-  integrity sha512-L3NNgX7U5j1paOoEvAy9E3fwPLI1We3coeF92Kg9LUTYkW1DIaJD5LzQ7ZCviguxv1FOlUZJNT6RhJulc7K+bw==
+gatsby-theme-conferencer@^1.0.23:
+  version "1.0.23"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-conferencer/-/gatsby-theme-conferencer-1.0.23.tgz#98e0584b00a112f44eb2b1b254f3d3037586d974"
+  integrity sha512-1mgnuErCqlVa8KriMd+FltSM4NJ2bw0y0HIchdNndSkq6qvcCr8UAQWM4qr0QLCAIGXLQ88wurbtihaklnWL5Q==
   dependencies:
     autoprefixer "^10.4.14"
     bootstrap "5.3.0-alpha3"

@@ -15,3 +15,8 @@ yarn install
 yarn clean && yarn develop
 ````
 
+## Build for production
+
+````shell
+yarn clean && yarn build
+````
