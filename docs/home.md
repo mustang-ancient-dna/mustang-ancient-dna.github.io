@@ -1,6 +1,6 @@
 ## Mustang Microbes Symposium
 
-![logo](_media/mustang_microbes_logo_small.png)
+An interdisciplinary symposium at the crossroads of microbiology, genetics, archeology, and bioinformatics.
 
 ### Dates:
 
