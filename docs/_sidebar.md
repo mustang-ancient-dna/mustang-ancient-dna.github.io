@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-- [Home](home.md "Home")
+- [Home](https://mustang-microbes-symposium.github.io "Home")
 - [Programme](programme.md "Programme")
 - [Registration](registration.md "Registration")
 <!-- - [Prerequisites](prerequisites.md "Prerequisites")
