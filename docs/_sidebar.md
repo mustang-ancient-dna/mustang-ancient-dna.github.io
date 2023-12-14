@@ -3,6 +3,7 @@
 - [Home](/ "Home")
 - [Speakers](speakers.md "Speakers")
 - [Registration](registration.md "Registration")
+- [Code of Conduct](conduct.md "Code of Conduct")
 <!-- - [Prerequisites](prerequisites.md "Prerequisites")
 - **Day 1**
     - [DLCE](day1/dlce.md "Intro to DLCE")
