@@ -7,4 +7,4 @@
 ### Kathmandu, Nepal
 
 [Programme](home.md)
-[Register](home.md)
+[Register](registration.md)
