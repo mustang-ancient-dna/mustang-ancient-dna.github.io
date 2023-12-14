@@ -1,8 +1,8 @@
 <!-- _coverpage.md -->
 
-![logo](_media/mustang_microbes_logo_small.png)
+![logo](_media/mustang_microbes_logo.png ':size=500')
 
-# Mustang Microbes Symposium
+# Mustang Ancient DNA Symposium
 
 [Programme](home.md)
 [Register](home.md)
