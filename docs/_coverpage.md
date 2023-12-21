@@ -4,7 +4,7 @@
 
 # **Mustang Ancient DNA Symposium**
 ## March 4th, 2024
-### Kathmandu, Nepal
+### Tribhuvan University, Kathmandu, Nepal
 
 [Programme](home.md)
 [Register](registration.md)
