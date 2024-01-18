@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-- [Home](/ "Mustang Ancient DNA symposium")
+- [Home](/ "Mustang Ancient DNA symposium ")
 - [Speakers](speakers.md "Speakers")
 - [Registration](registration.md "Registration")
 - [Contact](contact.md "Contact")

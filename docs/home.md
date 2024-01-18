@@ -2,7 +2,7 @@
 
 **An interdisciplinary symposium at the crossroads of microbiology, paleogenetics, archeology, and bioinformatics.**
 
-Welcome to a journey through time and genetics at our esteemed symposium. This event brings together  world's leading experts in archaeology and genetics to unveil the hidden stories of ancient mustand and himalayan civilizations. Focusing on groundbreaking research in the Himalayas and beyond, our symposium is a testament to the power of interdisciplinary collaboration in unlocking the secrets of our past. Explore the fascinating intersections of archaeology, microbiology, genetics, and bioinformatics, and discover how technological advancements are revolutionizing our understanding of human history, adaptation, and culture. Join us for an enlightening experience that bridges the ancient and the modern, revealing the continuous thread of human adaptation, cultures, and innovation.
+Welcome to a journey through time and genetics at the 2024 Mustang Ancient DNA Symposium hosted by Tribhuvan University in Kathmandu, Nepal. This event brings together leading experts in archaeology and genetics to unveil the hidden stories of ancient Himalayas, with a focus on the Mustang region of Nepal. Attesting to the power of interdisciplinary collaboration, this symposium explores the fascinating intersections of archaeology, microbiology, genetics, and bioinformatics to reveal lost histories of human migrations, the early brewing of chaang barley wine, and the spread of malaria through trade networks. Join us for an enlightening experience that bridges the ancient and the modern, revealing the continuous thread of human adaptation, cultures, and innovation.
 
 ## Date
 
