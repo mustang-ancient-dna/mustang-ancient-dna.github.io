@@ -21,3 +21,6 @@ Hosted by IOST, Kirtipur, [Tribhuvan University, Kathmandu, Nepal](https://tu.ed
 ### Registration Fee
 
 The attendance to the symposium is free of charge.
+
+
+![](_media/flyer/mustang_symposium_flyer.jpg)
