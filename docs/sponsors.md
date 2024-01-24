@@ -4,6 +4,10 @@
 
 ---
 
+[![](_media/amrit_campus.png ':size=450')](https://ac.tu.edu.np/)
+
+---
+
 [![](_media/Harvard-Logo.png ':size=200')](https://anthropology.fas.harvard.edu/)
 
 ---

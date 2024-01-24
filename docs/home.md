@@ -14,7 +14,7 @@ Welcome to a journey through time and genetics at the 2024 Mustang Ancient DNA S
 
 ### Location
 
-[Tribhuvan University, Kathmandu, Nepal](https://tu.edu.np/)
+Hosted by IOST, Kirtipur, [Tribhuvan University, Kathmandu, Nepal](https://tu.edu.np/)
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=85.27793884277345%2C27.674502068234272%2C85.29596328735353%2C27.68793630867814&amp;layer=mapnik" style="border: 1px solid black"></iframe>
 
