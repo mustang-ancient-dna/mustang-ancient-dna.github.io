@@ -2,7 +2,7 @@
 
 **An interdisciplinary symposium for life scientists and researchers, at the crossroads of microbiology, paleogenetics, archeology, and bioinformatics.**
 
-Welcome to a journey through time and genetics at the 2024 Mustang Ancient DNA Symposium hosted by Tribhuvan University in Kathmandu, Nepal. This event brings together leading experts in archaeology and genetics to unveil the hidden stories of ancient Himalayas, with a focus on the Mustang region of Nepal. Attesting to the power of interdisciplinary collaboration, this symposium explores the fascinating intersections of archaeology, microbiology, genetics, and bioinformatics to reveal lost histories of human migrations, the early brewing of chaang barley wine, and the spread of malaria through trade networks. Join us for an enlightening experience that bridges the ancient and the modern, revealing the continuous thread of human adaptation, cultures, and innovation.
+Welcome to a journey through time and genetics at the 2024 Mustang Ancient DNA Symposium hosted by Tribhuvan University in Kathmandu, Nepal. This event brings together leading experts in archaeology and genetics to unveil the hidden stories of ancient Himalayas, with a focus on the Mustang region of Nepal. Attesting to the power of interdisciplinary collaboration, this symposium explores the fascinating intersections of archaeology, microbiology, genetics, and bioinformatics to reveal lost histories of human migrations, the early brewing of chaang barley wine, antimicrobial resistance, and the spread of malaria through trade networks. Join us for an enlightening experience that bridges the ancient and the modern, revealing the continuous thread of human and microbial adaptations, cultures, and innovation.
 
 ## Date
 
@@ -14,9 +14,13 @@ Welcome to a journey through time and genetics at the 2024 Mustang Ancient DNA S
 
 ## Location
 
-Hosted by IOST, Kirtipur, [Tribhuvan University, Kathmandu, Nepal](https://tu.edu.np/)
+Hosted by IOST, Kirtipur, [Tribhuvan University, Kathmandu, Nepal](https://tu.edu.np/)  
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=85.27793884277345%2C27.674502068234272%2C85.29596328735353%2C27.68793630867814&amp;layer=mapnik" style="border: 1px solid black"></iframe>
+**Event location**:  [KCRE hall, CAS-TU, Kirtipur](https://maps.app.goo.gl/usaxJZnKkvpEn2qT8)
+
+<!-- <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=85.27793884277345%2C27.674502068234272%2C85.29596328735353%2C27.68793630867814&amp;layer=mapnik" style="border: 1px solid black"></iframe> -->
+
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=85.28175294399261%2C27.68393423695017%2C85.28529345989229%2C27.68604098379294&amp;layer=mapnik&amp;marker=27.68498880302071%2C85.28352320194244" style="border: 1px solid black"></iframe>
 
 
 ## [Register here](registration.md "Registration")
