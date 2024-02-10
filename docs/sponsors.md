@@ -1,6 +1,10 @@
-# Sponsors
+# Supported by
 
-[![](_media/ist_logo.png ':size=500')](https://iost.tu.edu.np/)
+[![](_media/iost_logo.png ':size=500')](https://iost.tu.edu.np/)
+
+---
+
+[![](_media/dean_office_iost.png ':size=500')](https://www.tuiost.edu.np/)
 
 ---
 
