@@ -2,7 +2,7 @@
 
 ## Pokhara 
 
-There is no registration needed for the event in Pokhara University, on March 7th
+More information about the meeting at Pokhara university on March 7th soon to come.
 
 ## Kathmandu
 
