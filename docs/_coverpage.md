@@ -6,5 +6,8 @@
 ## March 4th, 2024
 ### Tribhuvan University, Kathmandu, Nepal
 
+### March 7th, 2024
+#### Pokhara University, Pokhara, Nepal
+
 [Programme](home.md)
 [Register](registration.md)

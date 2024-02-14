@@ -12,6 +12,14 @@
 
 ---
 
+[![](_media/pu_logo_new.png ':size=450')](https://pu.edu.np/research/)
+
+---
+
+[![](_media/pu_research_center.jpg ':size=200')](https://www.facebook.com/research.pokhara.university)
+
+---
+
 [![](_media/Harvard-Logo.png ':size=200')](https://anthropology.fas.harvard.edu/)
 
 ---
