@@ -30,11 +30,14 @@ Hosted by IOST, Kirtipur, [Tribhuvan University, Kathmandu, Nepal](https://tu.ed
 
 Pokhara University Research Center. More details to come.
 
-## [Register here](registration.md "Registration")
+## Registration
+
+- [Register for the Kathmandu symposium](kathmandu "Kathmandu")
+- [Register for the Pokhara meeting](pokhara "Pokhara")
 
 ### Registration Fee
 
-The attendance to the symposium is free of charge.
+The attendance is free of charge.
 
 ---
 
