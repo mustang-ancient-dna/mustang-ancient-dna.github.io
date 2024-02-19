@@ -43,3 +43,14 @@ Chi-Chun Liu, David Witonsky, Anna Gosling, **Ju Hyeon Lee**, Harald Ringbauer, 
 ![](_media/juhyeon_lee.jpg ':size=100')
 
 > Present-day Tibetans have successfully acclimated to the high-altitude challenges of the Tibetan Plateau, sparking significant genetic interest in comprehending their adaptation to the hypoxic environment. Unraveling the origins of present-day Tibetans is crucial for understanding their genetic adaptation. To explore the history of the formation of the Tibetan gene pool, we conducted genome-wide analysis with 33 ancient individuals dating to ca. 1420 BCE–650 CE. These individuals, most closely related to present-day Tibetans, represent an early branch within the Tibetan lineage, shedding light on the intricate history of the Tibetan gene pool. They derive most of their ancestry from groups related to Late Neolithic populations at the northeastern edge of the Tibetan Plateau. Additionally, they carry a minor genetic component originating from a distinct and ancient Paleolithic Eurasian ancestry. Unlike the Tibetan gene pool, present-day non-Tibetan Tibeto-Burman speakers residing at mid-elevations on the Plateau, exhibit the genetic clines that trace their ancestry back to Middle Neolithic populations in the Yellow River basin. Finally, we revealed the persistence of positive selection for high-altitude adaptive alleles through a comparison between ancient and present-day highlanders.
+
+#### Integrons in Nepal: ancient genetic element and vehicle of antimicrobial resistance
+
+**Suchitra Thapa**
+
+![](_media/suchitra_thapa.jpg ':size=100')
+
+> Integrons are genetic element and have a long history of its existence in microbial world. Until few decades ago they were futile to the scientific world but as their significance as a vehicle of antimicrobial resistance has surfaced. They have gained attention and many researchers around the world have been exploring them. In case of Nepal, though AMR are explored from every niches but studies on integrons are very limited. So, my current research focuses on these integrons and aim to highlight their epidemiological significance. Through genotypic confirmation of their presence in E. coli to genome sequences, I have been exploring integrons specifically class 1 integrons for diversity within different clones and evolution in their gene cassette. The finding suggested high prevalence of class 1 integrons within multiple antibiotic resistance E. coli and co-prevalence of other AMR genes of clinical significance. The genomic analysis revealed diversity in sequence type, plasmid type and phylogenetic result. Thus, the analysis so far has shown an alarming situation of AMR clones circulating in clinical setting of Nepal.
+
+> [!NOTE]
+> This speaker will only present at the event in Kathmandu.
