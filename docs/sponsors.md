@@ -12,6 +12,10 @@
 
 ---
 
+[![](_media/kcre_logo.png ':size=120')](http://www.kcre.ac.cn)
+
+---
+
 [![](_media/pu_logo_new.png ':size=450')](https://pu.edu.np/research/)
 
 ---
