@@ -19,7 +19,7 @@ Opening talk - Need abstract-->
 > Recent advances in biomolecular technologies are opening up dramatic new opportunities in the field of archaeology. Among the most exciting new technologies to emerge is that of paleogenomics - the study of ancient DNA to reconstruct past genomes and answer key questions about the human past. Although the first attempts to recover ancient DNA can be traced to the 1980s, the field underwent a technological revolution in the 2010s with the advent of high throughput sequencing and is now among the most powerful methods in the archaeology toolkit. From identifying ancient human migrations and ancestry relationships to diagnosing and tracing the spread of infectious disease to reconstructing the ingredients and flavors of ancient foods, paleogenomics is transforming our understanding of the human past. Here we introduce three paleogenomics projects our team is conducting in Nepal and explain how ancient DNA can be used answer key questions about life in ancient Nepal - including how and when ancient peoples first settled the high Himalayan valleys, the antiquity of malaria and its spread by trade, and the ancient art of brewing chaang. 
 
 ### [Mark Aldenderfer](https://en.wikipedia.org/wiki/Mark_Aldenderfer)
-*University of California, Merced, CA, USA*
+*University of California, Merced, CA, USA*  
 
 ![mark aldenderfer](_media/mark_aldenderfer.png ':size=100')
 
@@ -32,8 +32,8 @@ Opening talk - Need abstract-->
 #### Ancient DNA insights into 7th century chaang brewing from Samdzong, Upper Mustang, Nepal
 
 **Maxime Borry**, Mark Aldenderfer, Christina Warinner  
-*Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany*    
-*Leibniz Institute for Natural Product Researc hand Infection Biology Hans Knöll Institute, Jena, Germany*  
+*Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany*  
+*Leibniz Institute for Natural Product Research and Infection Biology Hans Knöll Institute, Jena, Germany*  
 
 ![maxime borry](_media/maxime_borry.jpg ':size=100')
 
@@ -42,7 +42,7 @@ Opening talk - Need abstract-->
 #### Ancient DNA evidence for Plasmodium falciparum malaria at the high-altitude site of Chokhopani in Upper Mustang, Nepal
 
 **Megan Michel**, Eirini Skourtanioti, Mark Aldenderfer, Christina Warinner, Alexander Herbig, Johannes Krause  
-*Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany*    
+*Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany*  
 *Harvard University, Boston, MA, USA*  
 
 ![megan michek](_media/megan_michel.jpg ':size=100')
