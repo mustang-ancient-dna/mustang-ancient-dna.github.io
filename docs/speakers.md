@@ -2,10 +2,13 @@
 
 ## Keynote
 
-<!-- ### Ram Bahadur Kunwar
+### [Ram Bahadur Kunwar](http://www.doa.gov.np/chiefinfo/3/2020/27697201)
+*Government of Nepal, Ministry of Culture, Tourism, and Civil Aviation, Department of Archaeology*  
 
-Opening talk - Need abstract-->
+#### Introductory remarks on the archaeology of Nepal
 
+> [!NOTE]
+> This speaker will only present at the event in Kathmandu.
 
 ### [Christina Warinner](https://anthropology.fas.harvard.edu/people/christina-warinner)
 *Harvard University, Boston, MA, USA*  
