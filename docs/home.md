@@ -28,12 +28,12 @@ Hosted by IOST, Kirtipur, [Tribhuvan University, Kathmandu, Nepal](https://tu.ed
 
 ### Pokhara
 
-Pokhara University Research Center. More details to come.
+Seminar at Pokhara University Research Center. More details to come.
 
 ## Registration
 
 - [Register for the Kathmandu symposium](kathmandu "Kathmandu")
-- [Register for the Pokhara meeting](pokhara "Pokhara")
+- [Register for the Pokhara seminar](pokhara "Pokhara")
 
 ### Registration Fee
 
