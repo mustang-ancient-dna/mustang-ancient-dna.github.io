@@ -75,7 +75,7 @@ Chi-Chun Liu, David Witonsky, Anna Gosling, **Ju Hyeon Lee**, Harald Ringbauer, 
 > [!NOTE]
 > This speaker will only present at the event in Kathmandu.
 
-#### Ancient DNA insights into 7th century chaang brewing from Samdzong, Upper Mustang, Nepal
+#### Ancient DNA insights into 7th century *chhang* brewing from Samdzong, Upper Mustang, Nepal
 
 **Maxime Borry**, Mark Aldenderfer, Christina Warinner  
 *Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany*  
@@ -83,4 +83,4 @@ Chi-Chun Liu, David Witonsky, Anna Gosling, **Ju Hyeon Lee**, Harald Ringbauer, 
 
 ![maxime borry](_media/maxime_borry.jpg ':size=100')
 
-> Located some 4000 meters above sea level, in the Kali Gandaki river valley of the Upper Mustang region of Nepal, lies the sky cave of Samdzong. Archeological excavations conducted, between 2010 and 2012, revealed several tombs, among which the tomb 5, which contained human remains and cultural artifacts associated with food and beverage production. Among these artifacts, copper vessels, dated to the 6-7th century CE, are thought to be associated with the brewing and consumption of Chhaang, a typical Tibetan barley wine. After conducting DNA extraction in a dedicated ancient DNA cleanroom facility, we shotgun and target captured and sequenced these samples, to check both for plant and microbiome composition. The microbial signal present in these samples revealed an assortment of microbes associated with alcoholic fermentation, while the plant DNA matched with barley reference genomes. Taken together, these findings suggest the production of Chhaang in the Upper Mustang region in the early 7th century CE.
+> Located some 4000 meters above sea level, in the Kali Gandaki river valley of the Upper Mustang region of Nepal, lies the sky cave of Samdzong. Archeological excavations conducted, between 2010 and 2012, revealed several tombs, among which the tomb 5, which contained human remains and cultural artifacts associated with food and beverage production. Among these artifacts, copper vessels, dated to the 6-7th century CE, are thought to be associated with the brewing and consumption of chhaang, a typical Tibetan barley wine. After conducting DNA extraction in a dedicated ancient DNA cleanroom facility, we shotgun and target captured and sequenced these samples, to check both for plant and microbiome composition. The microbial signal present in these samples revealed an assortment of microbes associated with alcoholic fermentation, while the plant DNA matched with barley reference genomes. Taken together, these findings suggest the production of chhaang in the Upper Mustang region in the early 7th century CE.
