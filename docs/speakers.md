@@ -1,6 +1,6 @@
 # Speakers
 
-## Keynote - Invited speakers
+## Keynote
 
 ### [Ram Bahadur Kunwar](http://www.doa.gov.np/chiefinfo/3/2020/27697201)
 *Government of Nepal, Ministry of Culture, Tourism, and Civil Aviation, Department of Archaeology*  
@@ -42,6 +42,34 @@
 > [!NOTE]
 > This speaker will only present at the event in Kathmandu. -->
 
+
+## Invited speakers
+
+#### Environmental antibiotic resistance: An alarming risk to public health
+
+**Dev Raj Joshi**
+
+*Tribhuvan University, Kathmandu, Nepal*
+
+![](_media/dev_rav_joshi.png ':size=100')
+
+> Advanced molecular techniques have revealed that antibiotic resistance is ancient. Since the origin of many modern resistance genes in pathogens is likely environmental bacteria, environmental antibiotic resistant potential pathogens pose significant risk for transmission to human and animals. Identifying the magnitude and source of the antibiotic resistance in waste and surface water is crucial to combat global antibiotic resistance burden. Our multi-approach studies have revealed that bacterial community structure of untreated municipal sewage and hospital wastewater, but not the pharmaceutical wastewater, was majorly correlated with that of discharged rivers. High frequency of extended spectrum beta-lactamase and carbapenemase producing phenotype and genotype of E. coli and Klebsiella spp in discharged river water indicated that river resistome was impacted by hospital and municipal wastewaters. Regular monitoring and implementation of intervention strategy to reduce the antibiotic resistance in municipal sewage and hospital wastewater are recommended to prevent its further dissemination.
+
+> [!NOTE]
+> This speaker will only present at the event in Kathmandu.
+
+#### Integrons in Nepal: ancient genetic element and vehicle of antimicrobial resistance
+
+**Suchitra Thapa**  
+*Tribhuvan University, Kathmandu, Nepal*
+
+![](_media/suchitra_thapa.jpg ':size=100')
+
+> Integrons are genetic element and have a long history of its existence in microbial world. Until few decades ago they were futile to the scientific world but as their significance as a vehicle of antimicrobial resistance has surfaced. They have gained attention and many researchers around the world have been exploring them. In case of Nepal, though AMR are explored from every niches but studies on integrons are very limited. So, my current research focuses on these integrons and aim to highlight their epidemiological significance. Through genotypic confirmation of their presence in E. coli to genome sequences, I have been exploring integrons specifically class 1 integrons for diversity within different clones and evolution in their gene cassette. The finding suggested high prevalence of class 1 integrons within multiple antibiotic resistance E. coli and co-prevalence of other AMR genes of clinical significance. The genomic analysis revealed diversity in sequence type, plasmid type and phylogenetic result. Thus, the analysis so far has shown an alarming situation of AMR clones circulating in clinical setting of Nepal.
+
+> [!NOTE]
+> This speaker will only present at the event in Kathmandu.
+
 ## Talks
 
 #### Unraveling the Genetic History of Tibetan and Tibeto-Burman Speaking Populations
@@ -62,18 +90,6 @@ Chi-Chun Liu, David Witonsky, Anna Gosling, **Ju Hyeon Lee**, Harald Ringbauer, 
 ![megan michek](_media/megan_michel.jpg ':size=100')
 
 > In addition to representing a major modern public health threat, the malaria-causing parasite Plasmodium falciparum has exerted one of the strongest selective pressures shaping the human genome. Nevertheless, debate persists over when and how P. falciparum emerged as a human pathogen and spread around the globe. To explore the history of this disease, we used a metagenomic approach to identify ancient DNA from malaria parasites preserved in human skeletal remains. We present the earliest identified case of P. falciparum malaria in an individual from the high-altitude site of Chokhopani in Upper Mustang, Nepal, dating to c. 804-765 calBCE. This site lies above the endemic range of malaria-transmitting mosquitoes in Nepal today, suggesting that the individual from Chokhopani may have acquired their infection during travel in lowland regions. As such, this represents a rare case-study in which infectious disease status sheds light on both individual mobility and trans-altitudinal connectivity in the Himalayas.
-
-#### Integrons in Nepal: ancient genetic element and vehicle of antimicrobial resistance
-
-**Suchitra Thapa**  
-*Tribhuvan University, Kathmandu, Nepal*
-
-![](_media/suchitra_thapa.jpg ':size=100')
-
-> Integrons are genetic element and have a long history of its existence in microbial world. Until few decades ago they were futile to the scientific world but as their significance as a vehicle of antimicrobial resistance has surfaced. They have gained attention and many researchers around the world have been exploring them. In case of Nepal, though AMR are explored from every niches but studies on integrons are very limited. So, my current research focuses on these integrons and aim to highlight their epidemiological significance. Through genotypic confirmation of their presence in E. coli to genome sequences, I have been exploring integrons specifically class 1 integrons for diversity within different clones and evolution in their gene cassette. The finding suggested high prevalence of class 1 integrons within multiple antibiotic resistance E. coli and co-prevalence of other AMR genes of clinical significance. The genomic analysis revealed diversity in sequence type, plasmid type and phylogenetic result. Thus, the analysis so far has shown an alarming situation of AMR clones circulating in clinical setting of Nepal.
-
-> [!NOTE]
-> This speaker will only present at the event in Kathmandu.
 
 #### Ancient DNA insights into 7th century *chhang* brewing from Samdzong, Upper Mustang, Nepal
 
